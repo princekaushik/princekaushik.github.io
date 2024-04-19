@@ -19,7 +19,7 @@ git add -A
 git commit -m 'deploy'
 
 # push changes to the gh-pages branch of your repository
-git push -f git@github.com:princekaushik/princekaushik.github.io.git main:gh-pages
+git push -f git@github.com:princekaushik/princekaushik.github.io.git master:gh-pages
 
 # navigate back to the project root directory
 cd -
