@@ -21,11 +21,7 @@ Design and code by me.
 - Bootstrap 5.2;
 - Reusable Components;
 - Projects filter;
-- AOS animations (coming).
 
-## Plans
-- Jekyll blogs;
-- Routing.
 
 ## Build & Develop
 
